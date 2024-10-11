@@ -3,3 +3,4 @@ Werkzeug==0.16.1
 line-bot-sdk
 Jinja2==2.11.3
 MarkupSafe==2.0.1
+itsdangerous==1.1.0
